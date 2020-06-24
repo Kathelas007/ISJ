@@ -5,5 +5,5 @@ Proj3 - Strings, Cycles
 Proj4 - Permutation, Keys, Sets  
 Proj5 - Quiz generator  
 Proj6 - Derivations  
-Proj7 - Decorators
+Proj7 - Decorators 
 Proj8 - Iterations 
